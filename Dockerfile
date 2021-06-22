@@ -1,1 +1,1 @@
-FROM genomicpariscentre/guppy-gpu:4.0.14
+FROM genomicpariscentre/guppy-gpu:5.0.11
